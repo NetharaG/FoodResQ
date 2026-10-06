@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FoodResQ</string>
+    <string name="tagline">Leftover Food Donation App</string>
+    <string name="app_slogan">Rescue Food • Feed Hope • Reduce Waste</string>
+    
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location_address">Pickup / Primary Location</string>
+    <string name="select_role">Select Your Role</string>
+    <string name="donor">Food Donor</string>
+    <string name="receiver">Food Receiver / NGO</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- Food Types -->
+    <string-array name="food_types_array">
+        <item>Cooked Meals</item>
+        <item>Bakery &amp; Bread</item>
+        <item>Fresh Produce &amp; Veggies</item>
+        <item>Fruits</item>
+        <item>Packaged / Canned Food</item>
+        <item>Dairy Products</item>
+        <item>Beverages</item>
+        <item>Other</item>
+    </string-array>
+</resources>
